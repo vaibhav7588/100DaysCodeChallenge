@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/2029-stone-game-ix) |
+| [2540-minimum-common-value](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/1386-cinema-seat-allocation) |
+| [2540-minimum-common-value](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/2540-minimum-common-value) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2540-minimum-common-value](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2540-minimum-common-value](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/2540-minimum-common-value) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
