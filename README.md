@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/1872-stone-game-viii) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/vaibhav7588/100DaysCodeChallenge/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
